@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(6, 61, 117);
+
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-emphasis-style: unset;
+    text-align: center;
+    color: rgb(255, 254, 255);
+}
+
+p {
+    text-align: center;
+    size: 25px;
+    color: white;
+}
+
+img { 
+    display: block; margin: 0 auto;
+ }
